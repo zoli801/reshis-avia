@@ -1,12 +1,14 @@
 # Решись Авиа
 
+**[Открыть сайт](https://reshis-avia-cu-20261104.robust-boot-4212.chatgpt.site) · [Telegram-бот @CU_AviGo_app](https://t.me/CU_AviGo_app)**
+
 [![Проверки проекта](https://github.com/zoli801/reshis-avia/actions/workflows/ci.yml/badge.svg)](https://github.com/zoli801/reshis-avia/actions/workflows/ci.yml)
 
 Прогноз спроса на авиабилеты, сравнение цен и сохранение обоснованных решений.
 
 **Автор: Чехлов Дмитрий Олегович · Блок 3 — «Разработка»**
 
-[Открыть сайт](https://reshis-avia-cu-20261104.robust-boot-4212.chatgpt.site) · [Telegram-бот](https://t.me/CU_AviGo_app) · [Документация](docs/DEVELOPMENT.md) · [Сдача кейса](docs/SUBMISSION.md)
+[Документация](docs/DEVELOPMENT.md) · [Сдача кейса](docs/SUBMISSION.md)
 
 ![Интерфейс «Решись Авиа»](docs/images/overview.jpg)
 
