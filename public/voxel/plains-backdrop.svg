@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1600 560" shape-rendering="crispEdges" role="img" aria-labelledby="backdrop-title">
+  <title id="backdrop-title">Оригинальный дальний пейзаж равнин: облака, холмы и дубы</title>
+  <defs>
+    <linearGradient id="backdrop-fade" x2="0" y2="1"><stop offset="0" stop-color="white" stop-opacity="0"/><stop offset=".18" stop-color="white"/><stop offset=".68" stop-color="white" stop-opacity=".7"/><stop offset="1" stop-color="white" stop-opacity="0"/></linearGradient>
+    <mask id="backdrop-mask"><path fill="url(#backdrop-fade)" d="M0 0h1600v560H0z"/></mask>
+  </defs>
+  <g opacity=".18" mask="url(#backdrop-mask)">
+    <path fill="#a1cce1" d="M0 200h105v-12h96v22h105v-26h127v-18h106v24h136v-18h132v29h115v-33h127v17h119v-26h137v32h95v-15h100v264H0z"/>
+    <path fill="#91b979" d="M0 350h113v-20h114v18h109v-33h138v15h98v-25h129v29h119v-17h121v-31h134v22h107v-18h124v30h128v-18h106v240H0z"/>
+    <path fill="#739b5c" d="M0 416h105v-18h115v19h136v-31h136v17h128v-25h151v16h132v-36h122v20h125v-15h128v37h122v-12h100v172H0z"/>
+    <path fill="#c9ad7c" d="M0 424h105v-18h115v19h136v-31h136v17h128v-25h151v16h132v-36h122v20h125v-15h128v37h122v-12h100v17h-100v12h-122v-37h-128v15h-125v-20H903v36H771v-16H620v25H492v-17H356v31H220v-19H105v18H0z"/>
+    <g fill="#e6f1f8"><path d="M115 113h30V97h51V82h64v16h45v18h32v26H115z"/><path d="M649 79h30V64h40V49h60v16h50v17h38v24H649z"/><path d="M1211 133h37v-18h42V96h75v20h48v18h40v26h-242z"/></g>
+    <g fill="#a9d2e7"><path d="M115 134h222v8H115zM649 98h218v8H649zM1211 152h242v8h-242z"/></g>
+    <g transform="translate(1435 265)"><path fill="#8a6a42" d="M-7 10h18v104H-7z"/><path fill="#a0bc76" d="M-50-50h46v-24h56v27h37v58H45v22H-17V9h-33z"/><path fill="#6c954f" d="M-50-3h33v21h62V4h44v7H45v22H-17V9h-33z"/><path fill="#b3cf8b" d="M-40-43h34v-22h45v15H0v25h-40z"/></g>
+    <g transform="translate(100 316) scale(.75)"><path fill="#8a6a42" d="M-7 10h18v104H-7z"/><path fill="#a0bc76" d="M-50-50h46v-24h56v27h37v58H45v22H-17V9h-33z"/><path fill="#6c954f" d="M-50-3h33v21h62V4h44v7H45v22H-17V9h-33z"/></g>
+  </g>
+</svg>

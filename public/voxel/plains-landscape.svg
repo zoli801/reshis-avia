@@ -1,0 +1,86 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 260" fill="none" shape-rendering="crispEdges" role="img" aria-labelledby="plains-title plains-desc">
+  <title id="plains-title">Оригинальный пейзаж равнин с блочным аэродромом</title>
+  <desc id="plains-desc">Яркая зелёная трава, земляные острова, дубы, каменная полоса и небольшой самолёт. Все формы и текстуры нарисованы специально для проекта.</desc>
+  <defs>
+    <pattern id="soil" width="32" height="24" patternUnits="userSpaceOnUse">
+      <path fill="#98622f" d="M0 0h32v24H0z"/>
+      <path fill="#b67d3a" d="M2 2h7v4H2zM19 7h6v5h-6zM11 17h8v5h-8z"/>
+      <path fill="#7c4e27" d="M10 5h5v6h-5zM25 15h7v5h-7zM0 17h5v7H0z"/>
+      <path fill="#b69a61" d="M6 11h3v3H6zM23 2h4v3h-4zM21 21h4v3h-4z"/>
+    </pattern>
+    <pattern id="leaves" width="24" height="24" patternUnits="userSpaceOnUse">
+      <path fill="#78b927" d="M0 0h24v24H0z"/>
+      <path fill="#8ac834" d="M0 0h9v5H0zM12 9h7v5h-7zM4 19h9v5H4z"/>
+      <path fill="#69a824" d="M12 0h7v4h-7zM0 10h5v7H0zM18 18h6v6h-6z"/>
+    </pattern>
+    <g id="cloud">
+      <path fill="#b2ddf5" d="M0 15h13V6h22V0h28v9h23v8h16v11H76v6H13v-6H0z"/>
+      <path fill="#83c2e6" d="M0 23h13v5h63v-5h26v5H76v6H13v-6H0z"/>
+      <path fill="#d9effb" d="M21 10h14V6h21v5H35v6H21z"/>
+    </g>
+    <g id="oak">
+      <path fill="#93602e" d="M-8-7 9-12v63L-8 56z"/>
+      <path fill="#6e4725" d="m9-12 14 6v62l-14-5z"/>
+      <path fill="#b17a3d" d="M-5 2h4v43h-4zM3-5h3v53H3z"/>
+      <path fill="#8ac933" d="m-48-48 44-17 53 23L5-24z"/>
+      <path fill="url(#leaves)" d="M-48-48v33L5 8v-32z"/>
+      <path fill="#559922" d="m5-24 44-18v33L5 8z"/>
+      <path fill="#69aa24" d="m10-21 13-5v10l-13 5zM29-19l12-5v10l-12 5z"/>
+      <path fill="#a0d53d" d="m-34-77 33-13 36 15L2-61z"/>
+      <path fill="#7fbd29" d="M-34-77v32L2-30v-31z"/>
+      <path fill="#62a322" d="m2-61 33-14v32L2-30z"/>
+      <path fill="#91cd35" d="M-29-72h10v8h-10zM-14-57h9v10h-9z"/>
+    </g>
+    <g id="plane">
+      <path fill="#f4f2dc" d="M0 12 84-23l26 11-84 36z"/>
+      <path fill="#b8c2b2" d="m26 24 84-36V1L26 38z"/>
+      <path fill="#e0dfca" d="M0 12v13l26 13V24z"/>
+      <path fill="#6eaf28" d="m31 0-15-30 14-6 29 24z"/>
+      <path fill="#94c63e" d="m16-30 14 7 18 25-17 6z"/>
+      <path fill="#8ac331" d="m49 15 35 25 17-7-29-30z"/>
+      <path fill="#5f9527" d="m49 15 35 25v9L49 24z"/>
+      <path fill="#44623b" d="m84 40 17-7v8l-17 8z"/>
+      <path fill="#6eaf28" d="m3 10-2-19 12-5 18 16z"/>
+      <path fill="#344547" d="m72-14 10 5-9 4-10-5zM56-7l9 4-9 4-9-4zM41 0l9 4-8 4-9-4z"/>
+      <path fill="#526263" d="m35 30 9-4v7l-9 4zM74 12l9-4v7l-9 4z"/>
+    </g>
+  </defs>
+  <use href="#cloud" transform="translate(25 42) scale(.72)"/>
+  <use href="#cloud" transform="translate(268 17) scale(.58)"/>
+  <use href="#cloud" transform="translate(812 30) scale(.86)"/>
+  <path fill="#8bc435" d="m58 164 182-68 658 70-184 70z"/>
+  <path fill="url(#soil)" d="M58 164v34l656 62v-24z"/>
+  <path fill="#6e4725" d="m714 236 184-70v33l-184 61z"/>
+  <path fill="#9e6c32" d="m724 238 22-8v14l-22 7zM764 223l26-9v13l-26 10zM809 207l28-10v15l-28 9zM856 191l27-9v12l-27 9z"/>
+  <path fill="#68aa2a" d="m58 164 656 72v8l-39-4v6l-20-2v-7l-48-5v8l-20-2v-8l-53-6v8l-18-2v-8l-62-6v7l-18-2v-7l-47-5v6l-17-2v-6l-58-6v7l-18-2v-7l-50-6v7l-20-2v-7l-62-6v7l-16-2v-7l-38-4z"/>
+  <path fill="#5a9b23" d="m714 236 184-70v7l-21 8v6l-14 5v-6l-35 13v8l-14 5v-7l-38 14v7l-17 6v-7l-30 11v7l-15 6z"/>
+  <path fill="#acd447" d="m59 161 182-67 658 70-4 4-653-69-178 66z"/>
+  <path fill="#9bce40" d="m99 161 42-15 59 7-42 15zM279 126l55-20 63 7-55 20zM701 159l63-23 63 7-61 23zM463 205l59-21 65 7-58 22z"/>
+  <path fill="#75b52b" d="m182 186 54-19 57 6-54 20zM612 147l54-20 43 5-53 20zM339 208l45-16 43 4-45 17z"/>
+  <path fill="#777e72" d="m340 162 275-81 95 13-276 82z"/>
+  <path fill="#a9ab98" d="m344 160 271-79 88 12-271 80z"/>
+  <path fill="#858b7c" d="m353 160 263-75 75 10-263 75z"/>
+  <path fill="#ede5c7" d="m363 159 16-5 48 7-16 5zM595 91l16-5 48 7-16 5z"/>
+  <path fill="#dcdcc3" d="m414 149 21-6 9 1-21 7zM459 136l21-6 9 1-21 6zM504 123l21-6 9 1-21 6zM550 110l20-6 9 1-20 6z"/>
+  <path fill="#796b4a" d="m718 162 45-16 63 8-45 17z"/>
+  <path fill="#b98746" d="M718 162v35l63 8v-34z"/>
+  <path fill="#8b602e" d="m781 171 45-17v34l-45 17z"/>
+  <path fill="#d2ad64" d="m712 154 51-18 68 9-50 19z"/>
+  <path fill="#8b8c7c" d="m712 154 69 10v8l-69-10z"/>
+  <path fill="#686d62" d="m781 164 50-19v8l-50 19z"/>
+  <path fill="#9dcae0" d="m729 173 41 6v15l-41-6z"/>
+  <path fill="#486d77" d="m738 176 4 1v11l-4-1zM754 179l4 1v11l-4-1z"/>
+  <path fill="#593e24" d="m789 179 13-5v21l-13 5z"/>
+  <path fill="#e1bd76" d="m808 174 10-4v11l-10 4z"/>
+  <path fill="#9c6b35" d="m777 134 5-2v-28l-5-1z"/>
+  <path fill="#ecba51" d="m782 105 23 8-9 7-14-6z"/>
+  <use href="#oak" transform="translate(190 135) scale(.94)"/>
+  <use href="#oak" transform="translate(279 125) scale(.6)"/>
+  <use href="#oak" transform="translate(844 140) scale(.63)"/>
+  <path fill="#bec59d" d="m266 183 23-8 25 3-23 8zM303 187l23-8 25 3-23 8zM340 191l23-8 25 3-23 8z"/>
+  <path fill="#e3cb7c" d="M101 168h5v9h-5zM127 171h5v9h-5zM692 218h5v8h-5z"/>
+  <use href="#plane" transform="translate(491 135) scale(.7)"/>
+  <path fill="#d8e8d2" d="m595 61 39-12 39 5-39 13z" opacity=".28"/>
+  <use href="#plane" transform="translate(671 61) scale(.9)"/>
+  <path d="m650 76-13 4m-12 4-13 4m-12 4-13 4" stroke="#9fcbd7" stroke-width="4" stroke-linecap="square"/>
+</svg>

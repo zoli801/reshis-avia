@@ -1,0 +1,4 @@
+/* A single faint vista around the upper dashboard. Panels remain opaque. */
+.plains-backdrop .main-shell{background-image:url('/voxel/plains-backdrop.svg');background-repeat:no-repeat;background-position:center 66px;background-size:1400px 560px}
+@media(max-width:720px){.plains-backdrop .main-shell{background-size:1100px 440px;background-position:62% 70px}}
+@media print{.plains-backdrop .main-shell{background-image:none}}

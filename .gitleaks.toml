@@ -1,0 +1,13 @@
+title = "Решись Авиа: стандартные правила и публичный ключ Telegram"
+
+[extend]
+useDefault = true
+
+# Это публичный Ed25519-ключ Telegram, а не токен бота.
+# https://core.telegram.org/bots/webapps#validating-data-for-third-party-use
+[[allowlists]]
+description = "Официальный публичный ключ проверки подписей Telegram"
+targetRules = ["generic-api-key"]
+condition = "AND"
+paths = ['''(^|/)lib/server/auth\.ts$''']
+regexes = ['''^e7bf03a2fa4602af4580703d88dda5bb59f32ed8b02a56c187fe7d34caed242d$''']

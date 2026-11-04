@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 176 144" fill="none" shape-rendering="crispEdges" role="img" aria-labelledby="drone-title">
+  <title id="drone-title">Оригинальный персонаж — дружелюбный разведывательный дрон</title>
+  <path d="M48 127h78v5H48zM59 132h56v4H59z" fill="#17221f" opacity=".11"/>
+  <path d="m51 51 20 9-7 10-22-9zM112 59l17-13 10 8-21 16z" fill="#6a8a84"/>
+  <path d="m49 54 16 8-3 5-17-8zM116 61l14-11 5 4-16 12z" fill="#3e665f"/>
+  <path d="M31 31h8v20h-8zM140 27h8v22h-8z" fill="#355450"/>
+  <path d="M20 27h30v5H20zM128 23h31v5h-31z" fill="#82978c"/>
+  <path d="M9 22h26v5H9zM35 32h26v5H35zM117 18h27v5h-27zM144 28h27v5h-27z" fill="#c1d0ba"/>
+  <path d="m27 38 12-4 12 6-12 5zM132 34l12-4 12 6-12 5z" fill="#d3d9bb"/>
+  <path d="m27 38 12 7v8l-12-7zM132 34l12 7v8l-12-7z" fill="#7f9b74"/>
+  <path d="m39 45 12-5v8l-12 5zM144 41l12-5v8l-12 5z" fill="#466a47"/>
+  <path d="m58 47 40-14 37 17-40 16z" fill="#e7e7c9"/>
+  <path d="M58 47v49l37 18V66z" fill="#cbd4ab"/>
+  <path d="m95 66 40-16v46l-40 18z" fill="#91ac68"/>
+  <path d="m63 55 27 13v31L63 86z" fill="#243f49"/>
+  <path d="m68 64 7 3v7l-7-3zM79 69l7 3v7l-7-3z" fill="#d5edee"/>
+  <path d="m69 64 4 2v3l-4-2zM80 69l4 2v3l-4-2z" fill="#fbfff2"/>
+  <path d="m73 81 4 2v3l-4-2zM77 83l5 2v3l-5-2z" fill="#74a8b7"/>
+  <path d="m101 73 27-11v24l-27 12z" fill="#4f8246"/>
+  <path d="m107 79 4-2v11l-4 2zM114 73l4-2v14l-4 2zM121 68l4-2v16l-4 2z" fill="#b8d375"/>
+  <path d="m66 96 21 10v5l-21-10z" fill="#e5ae4d"/>
+  <path d="m103 104 21-9v5l-21 9z" fill="#496c47"/>
+  <path d="m76 41 12-4 10 5-12 4z" fill="#c48632"/>
+  <path d="m86 46 12-4v5l-12 4z" fill="#915d27"/>
+  <path d="m76 41 10 5v5l-10-5z" fill="#e8b85e"/>
+  <path d="M84 22h5v18h-5z" fill="#6a7b69"/>
+  <path d="M81 16h11v9H81z" fill="#e9a942"/>
+  <path d="M83 17h5v4h-5z" fill="#ffe0a0"/>
+  <path d="m59 102-9 10 9 5 8-10zM123 106l5 8 11-5-6-8z" fill="#3e6758"/>
+  <path d="m46 113 13 6 14-5v6l-14 6-13-6zM118 118l14 6 14-6v-6l-14 6-14-6z" fill="#8baa69"/>
+  <path d="m64 115 14 6-6 4-14-6zM119 117l9 4 7-3-9-4z" fill="#d2dcb5"/>
+</svg>

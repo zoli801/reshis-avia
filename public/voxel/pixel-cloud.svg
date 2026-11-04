@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 160 64" fill="none" shape-rendering="crispEdges" role="img" aria-labelledby="cloud-title">
+  <title id="cloud-title">Оригинальное блочное облако</title>
+  <path d="M8 31h19V19h22V8h31v12h27v-7h20v18h23v20h-17v7H23v-7H8z" fill="#b2ddf5"/>
+  <path d="M8 44h19v7h106v-7h17v7h-17v7H23v-7H8z" fill="#83c2e6"/>
+  <path d="M37 27h20V15h17v7H57v12H37zM110 25h12v6h-12z" fill="#d9effb"/>
+</svg>

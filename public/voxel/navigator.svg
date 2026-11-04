@@ -1,0 +1,52 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 160" fill="none" shape-rendering="crispEdges" role="img" aria-labelledby="navigator-title">
+  <title id="navigator-title">Оригинальный персонаж — воздушный навигатор</title>
+  <path d="M27 142h66v5H27zM34 147h52v4H34z" fill="#17221f" opacity=".12"/>
+  <path d="m45 108 16 3v23H45z" fill="#2e6970"/>
+  <path d="m61 111 7-4v23l-7 4z" fill="#214d56"/>
+  <path d="m71 109 16-3v28H71z" fill="#38818a"/>
+  <path d="m87 106 8-4v27l-8 5z" fill="#245861"/>
+  <path d="M41 132h20v11H36v-6h5z" fill="#665847"/>
+  <path d="m61 132 7-4v10l-7 5z" fill="#463f35"/>
+  <path d="M70 132h19v11H70z" fill="#76644e"/>
+  <path d="m89 132 7-4v11l-7 4z" fill="#514735"/>
+  <path d="m40 75 37-8 20 11-37 9z" fill="#62bbc0"/>
+  <path d="M40 75v40l37 11V85z" fill="#36a8b4"/>
+  <path d="m77 85 20-7v37l-20 11z" fill="#247985"/>
+  <path d="m45 79 14 4v31l-14-4z" fill="#49b9c3"/>
+  <path d="m75 85 5-1v37l-5 2z" fill="#225b62"/>
+  <path d="M69 84h4v34h-4z" fill="#d5c39d"/>
+  <path d="m42 105 31 9v7l-31-9z" fill="#37646a"/>
+  <path d="m77 114 19-7v7l-19 8z" fill="#1e525a"/>
+  <path d="m37 78-10 9v28l12-3 5-10V81z" fill="#28848f"/>
+  <path d="m27 107 12-3v13l-12 3z" fill="#d8b995"/>
+  <path d="m94 80 12 7v23l-11-5-4-10z" fill="#61bec4"/>
+  <path d="m98 102 10 4v12l-10-4z" fill="#cfb18d"/>
+  <path d="m42 32 34-11 23 13-34 11z" fill="#d1a159"/>
+  <path d="M42 32v34l34 12V43z" fill="#e4c9a4"/>
+  <path d="m76 43 23-9v33l-23 11z" fill="#c4a782"/>
+  <path d="m42 32 34-11 23 13-6 2-18-9-26 9v11l-7-2z" fill="#ac702c"/>
+  <path d="m44 36 29-9 19 9-19 7z" fill="#d6a454"/>
+  <path d="m74 43 19-7v8l-19 8z" fill="#865723"/>
+  <path d="m38 45 7-2 8 3v15l-8 3-7-3z" fill="#668684"/>
+  <path d="m38 48 6-2v12l-6-1z" fill="#a2c3b4"/>
+  <path d="m91 45 9-4 6 3v16l-8 4-7-4z" fill="#466b6d"/>
+  <path d="m98 46 6-2v13l-6 3z" fill="#80a5a2"/>
+  <path d="m49 44 26 8 20-8v6l-20 8-26-8z" fill="#30494a"/>
+  <path d="m50 46 11 3v11l-11-3z" fill="#294f61"/>
+  <path d="m63 50 11 3v11l-11-3z" fill="#294f61"/>
+  <path d="m52 48 7 2v7l-7-2zM65 52l7 2v7l-7-2z" fill="#b6dcea"/>
+  <path d="m53 48 3 1v6l-3-1zM66 52l3 1v6l-3-1z" fill="#edf8f8"/>
+  <path d="m76 53 14-6v11l-14 6z" fill="#365d67"/>
+  <path d="m79 54 8-3v5l-8 3z" fill="#8ac5d0"/>
+  <path d="m63 66 9 3v3l-9-3z" fill="#9e7458"/>
+  <path d="m45 69 29 10 18-8v7l-18 9-29-10z" fill="#ac702c"/>
+  <path d="m83 80 8-3 10 23-9 3z" fill="#e5a647"/>
+  <path d="m91 97 10-3 3 8-10 3z" fill="#bd762e"/>
+  <path d="m31 101 19-6 29 13-20 8z" fill="#f2e7c6"/>
+  <path d="m31 101 28 11v17l-28-12z" fill="#ded1ac"/>
+  <path d="m59 112 20-4v17l-20 4z" fill="#c6b78e"/>
+  <path d="m36 106 6 2v7l8 3v-6l5 2v8l-19-8z" fill="#8dbb42"/>
+  <path d="m64 114 10-3v3l-7 3v5l-3 1z" fill="#6c9d35"/>
+  <path d="m44 108 5 2v3l-5-2zM68 119l5-1v3l-5 1z" fill="#66accd"/>
+  <path d="m28 111 9 3v8l-9-3zM72 110l10-3v8l-10 3z" fill="#d8b995"/>
+</svg>

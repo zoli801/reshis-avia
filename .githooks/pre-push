@@ -1,0 +1,9 @@
+#!/bin/sh
+set -eu
+# Check every pushed local SHA, including non-HEAD branches and tags.
+while read -r local_ref local_sha remote_ref remote_sha; do
+  case "$local_sha" in
+    0000000000000000000000000000000000000000) continue ;;
+  esac
+  node scripts/check-secrets.mjs --mode history --ref "$local_sha"
+done

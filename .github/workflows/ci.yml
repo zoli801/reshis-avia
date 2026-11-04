@@ -1,0 +1,59 @@
+name: Проверки проекта
+
+on:
+  push:
+    branches: [main]
+  pull_request:
+
+permissions:
+  contents: read
+
+concurrency:
+  group: checks-${{ github.workflow }}-${{ github.ref }}
+  cancel-in-progress: true
+
+jobs:
+  verify:
+    name: TypeScript, тесты и сборка
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    steps:
+      - name: Получить исходники
+        uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1 # v7
+        with:
+          persist-credentials: false
+          fetch-depth: 0
+
+      - name: Подготовить Node.js
+        uses: actions/setup-node@949feb2413d6458794dcd2491c4babbbce0c15c1 # v7
+        with:
+          node-version-file: .nvmrc
+          package-manager-cache: false
+
+      - name: Проверить историю на секреты
+        run: node scripts/check-secrets.mjs --mode history --ref HEAD
+
+      - name: Проверить историю с Gitleaks
+        shell: bash
+        run: |
+          set -euo pipefail
+          tools_dir="${RUNNER_TEMP}/avia-gitleaks"
+          mkdir -p "$tools_dir"
+          curl --fail --silent --show-error --location \
+            https://github.com/gitleaks/gitleaks/releases/download/v8.30.1/gitleaks_8.30.1_linux_x64.tar.gz \
+            --output "$tools_dir/gitleaks.tar.gz"
+          printf '%s  %s\n' '551f6fc83ea457d62a0d98237cbad105af8d557003051f41f3e7ca7b3f2470eb' "$tools_dir/gitleaks.tar.gz" | sha256sum --check --status
+          tar -xzf "$tools_dir/gitleaks.tar.gz" -C "$tools_dir" gitleaks
+          "$tools_dir/gitleaks" git . --redact --no-banner --ignore-gitleaks-allow --log-opts=--all
+
+      - name: Установить зависимости по lock-файлу
+        run: npm run install:ci
+
+      - name: Проверить TypeScript
+        run: npm run typecheck
+
+      - name: Запустить тесты
+        run: npm test
+
+      - name: Собрать приложение
+        run: npm run build

@@ -1,0 +1,86 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 280" fill="none" shape-rendering="geometricPrecision" role="img" aria-labelledby="airfield-title airfield-desc">
+  <title id="airfield-title">Оригинальный воксельный аэродром на парящем острове</title>
+  <desc id="airfield-desc">Спокойный геометрический пейзаж с блочными деревьями, небольшим терминалом, самолётом и водопадом.</desc>
+  <defs>
+    <g id="tree">
+      <path d="m-3-3 5-2v28l-5 2z" fill="#827154"/>
+      <path d="m2-5 5 2v28l-5-2z" fill="#5f5b44"/>
+      <path d="m-22-33 23-10 24 11L2-21z" fill="#8da477"/>
+      <path d="M-22-33v22L2 0v-21z" fill="#6d8d63"/>
+      <path d="m2-21 23-11v22L2 0z" fill="#496c47"/>
+      <path d="m-12-47 14-6 14 7-14 6z" fill="#a6b58a"/>
+      <path d="M-12-47v16l14 7v-16z" fill="#829b6c"/>
+      <path d="m2-40 14-6v16L2-24z" fill="#5f7e53"/>
+    </g>
+    <g id="cloud">
+      <path d="M0 14h15V5h23v-5h25v12h23v9h15v11H15V26H0z" fill="#d9e0d2"/>
+      <path d="M15 26h86v6H15z" fill="#bbcfc4"/>
+      <path d="M27 9h11V5h18v5H38v7H27z" fill="#edf0e3"/>
+    </g>
+    <g id="aircraft">
+      <path d="M0 8 57-17l14 6L14 15z" fill="#e9ead6"/>
+      <path d="m14 15 57-26v6L14 21z" fill="#a6bba1"/>
+      <path d="M0 8v6l14 7v-6z" fill="#c9d2ba"/>
+      <path d="m26-3-12-18 9-4L40-9z" fill="#99b298"/>
+      <path d="m34 6 23 13 9-5L49-1z" fill="#b8cbb0"/>
+      <path d="m34 6 23 13v5L34 11z" fill="#87a080"/>
+      <path d="m2 7-4-12 7-3 12 9z" fill="#b58b52"/>
+      <path d="m47-13 9 4-7 3-8-4z" fill="#648c9d"/>
+    </g>
+  </defs>
+  <g transform="translate(22 0) scale(.94)">
+  <use href="#cloud" transform="translate(40 47) scale(.75)" opacity=".62"/>
+  <use href="#cloud" transform="translate(540 20) scale(.91)" opacity=".72"/>
+  <path d="M123 223h-22v8h22v7h33v-7h16v-8h-20v-8h-29z" fill="#b4c7bc" opacity=".25"/>
+  <path d="M592 217h44v8h24v9h-19v7h-49v-8h-18v-8h18z" fill="#b4c7bc" opacity=".22"/>
+  <path d="m119 141 235-100 270 115-235 102z" fill="#9eaf80"/>
+  <path d="m119 141 270 117v22l-28-10h-27v-12h-30v-12h-30v-12h-28v-12h-28v-12h-26v-12h-27v-13h-25v-14h-21z" fill="#7a8066"/>
+  <path d="m389 258 235-102v27l-22 10v15l-25 10v13l-29 13v11l-29 12v10l-32 3h-32v-10l-31 10-35-10z" fill="#5c6d59"/>
+  <path d="m119 141 270 117v7L119 149z" fill="#6f8d5d"/>
+  <path d="m389 258 235-102v7L389 265z" fill="#58764c"/>
+  <path d="m166 173 44 19v11l-25-11v8l-19-8zM250 212l49 21v9l-23-10v8l-26-11zM333 246l37 16v10l-37-16z" fill="#b3ad88" opacity=".38"/>
+  <path d="m454 245 27-12v10l-27 12zM519 217l35-15v14l-35 15zM576 193l25-11v9l-25 11z" fill="#394f43" opacity=".35"/>
+  <path d="m160 143 37-16 49 21-36 16zM458 114l49-21 36 16-48 21zM344 225l39-17 31 14-39 17z" fill="#b2bc91" opacity=".7"/>
+  <path d="m259 145 176-76 49 21-176 77z" fill="#75877c"/>
+  <path d="m264 145 171-73 43 18-171 74z" fill="#82958b"/>
+  <path d="m274 147 10-4 25 11-10 4zM418 84l10-4 25 11-10 4z" fill="#d9d8bc"/>
+  <path d="m311 138 16-7 5 2-16 7zM343 124l16-7 5 2-16 7zM375 110l16-7 5 2-16 7zM407 96l10-4 5 2-10 4z" fill="#e6e5cd"/>
+  <path d="m242 161 19-8 35 15-19 8z" fill="#c3b99a"/>
+  <path d="m251 165 10-4 24 10-10 4z" fill="#e1d4b0"/>
+  <use href="#aircraft" transform="translate(337 129) scale(.9)"/>
+  <path d="m424 172 54-23 58 25-54 24z" fill="#c7cdb4"/>
+  <path d="M424 172v31l58 25v-30z" fill="#a4b29a"/>
+  <path d="m482 198 54-24v31l-54 23z" fill="#7d9781"/>
+  <path d="m420 167 58-25 64 28-60 26z" fill="#d3d5bc"/>
+  <path d="m420 167 62 27v6l-62-27z" fill="#91a48b"/>
+  <path d="m482 194 60-24v6l-60 24z" fill="#6c8a73"/>
+  <path d="m433 182 41 17v17l-41-17z" fill="#648c9d"/>
+  <path d="m437 186 8 3v9l-8-3zM450 191l8 3v9l-8-3zM463 197l8 3v9l-8-3z" fill="#abc2ba"/>
+  <path d="m488 202 14-6v20l-14 6z" fill="#536e68"/>
+  <path d="m506 194 23-10v14l-23 10z" fill="#b0c5b8"/>
+  <path d="m510 195 5-2v8l-5 2zM519 191l5-2v8l-5 2z" fill="#648c9d"/>
+  <path d="m470 132 12-5 12 5-12 6z" fill="#c6cfb6"/>
+  <path d="M470 132v24l12 5v-23z" fill="#a0b296"/>
+  <path d="m482 138 12-6v24l-12 5z" fill="#6f8d77"/>
+  <path d="m466 121 16-7 17 7-17 8z" fill="#b5c8bc"/>
+  <path d="M466 121v12l16 7v-11z" fill="#648c9d"/>
+  <path d="m482 129 17-8v12l-17 7z" fill="#446c78"/>
+  <path d="m464 118 18-8 19 8-19 9z" fill="#c7d1b7"/>
+  <path d="m482 110 2-1V99l-2-1z" fill="#72846b"/>
+  <path d="m483 99 17 3-6 5-11-2z" fill="#b58b52"/>
+  <path d="m547 188 28-12 23 10-28 12z" fill="#8faeb0"/>
+  <path d="m570 198 28-12v51l-7 3v-24l-6 3v36l-8 3v-27l-7 3z" fill="#648c9d"/>
+  <path d="m575 196 6-3v43l-6 3zM586 191l6-3v28l-6 3z" fill="#abc9c5" opacity=".75"/>
+  <path d="m570 242 7-3v15l-7 3zM582 253l6-3v13l-6 3zM593 238l5-2v11l-5 2z" fill="#91b5b7" opacity=".65"/>
+  <path d="m566 264 6-2v5l-6 2zM589 271l5-2v5l-5 2z" fill="#abc9c5" opacity=".4"/>
+  <use href="#tree" transform="translate(207 139) scale(.72)"/>
+  <use href="#tree" transform="translate(260 119) scale(.58)"/>
+  <use href="#tree" transform="translate(519 127) scale(.63)"/>
+  <use href="#tree" transform="translate(328 219) scale(.75)"/>
+  <path d="m216 183 12-5 10 4-12 5zM241 193l12-5 10 4-12 5zM266 204l12-5 10 4-12 5z" fill="#d0c8a4"/>
+  <path d="m192 168 8-3v6l-8 3zM303 238l8-3v6l-8 3zM552 148l8-3v6l-8 3z" fill="#c9b877"/>
+  <path d="m478 56 21-9 19 9-21 9z" fill="#b7c4ad" opacity=".2"/>
+  <use href="#aircraft" transform="translate(532 57) scale(.72)"/>
+  <path d="m509 73-10 4M488 82l-10 4M467 91l-7 3" stroke="#99b6b1" stroke-width="3" stroke-linecap="square" opacity=".7"/>
+  </g>
+</svg>

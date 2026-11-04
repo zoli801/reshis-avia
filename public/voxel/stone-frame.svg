@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 96 96" width="96" height="96" shape-rendering="crispEdges" role="img" aria-labelledby="stone-title">
+  <title id="stone-title">Оригинальная каменная рамка с прозрачным центром, срез 16 пикселей</title>
+  <path fill="#615d53" fill-rule="evenodd" d="M8 0h80v4h4v4h4v80h-4v4h-4v4H8v-4H4v-4H0V8h4V4h4zM16 16v64h64V16z"/>
+  <path fill="#aaa598" fill-rule="evenodd" d="M8 4h80v4h4v80h-4v4H8v-4H4V8h4zM16 16v64h64V16z"/>
+  <path fill="#ded7c6" d="M8 4h80v4H12v4H8v72H4V8h4z"/>
+  <path fill="#827d70" d="M88 8h4v80h-4v4H8v-4h76v-4h4z"/>
+  <path fill="#c3bbaa" fill-rule="evenodd" d="M12 12h72v72H12zM16 16v64h64V16z"/>
+  <path fill="#6e6b61" d="M16 12h64v4H16zM12 16h4v64h-4z"/>
+  <path fill="#e2dac5" d="M16 80h64v4H16zM80 16h4v64h-4z"/>
+  <path fill="#8e897c" d="M16 5h2v6h-2zM42 4h2v8h-2zM72 5h2v6h-2zM5 22h6v2H5zM5 55h6v2H5zM86 31h5v2h-5zM86 68h5v2h-5zM26 86h2v5h-2zM58 86h2v5h-2z"/>
+  <path fill="#d1c9b8" d="M20 6h9v2h-9zM49 6h14v2H49zM8 28h2v11H8zM7 62h3v9H7zM86 40h2v13h-2zM34 87h13v2H34zM65 86h11v3H65z"/>
+  <path fill="#ebe3d2" d="M6 8h8v3H9v4H6zM80 5h7v3h-7zM5 78h3v7h5v3H8v-3H5z"/>
+  <path fill="#928b7b" d="M85 7h5v9h-4v-5h-6V7zM5 84h9v5H8v-2H5zM82 82h9v5h-4v4h-5z"/>
+  <path fill="#6b6559" d="M87 15h4v3h-4zM3 47h4v3H3zM66 88h4v4h-4zM88 77h4v3h-4z"/>
+  <path fill="#f1e3c4" d="M16 16h64v64H16z" fill-opacity="0"/>
+  <path fill="#fff" d="M16 16h64v64H16z" fill-opacity="0"/>
+</svg>

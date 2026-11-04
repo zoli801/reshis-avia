@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 96 96" fill="none" shape-rendering="crispEdges" role="img" aria-labelledby="plane-title">
+  <title id="plane-title">Оригинальная блочная эмблема самолёта</title>
+  <path d="M12 56 68 27l15 8-56 29z" fill="#f2f1df"/>
+  <path d="m27 64 56-29v9L27 73z" fill="#b4bda9"/>
+  <path d="M12 56v9l15 8v-9z" fill="#d7d9c5"/>
+  <path d="m38 44-9-24 9-5 18 19z" fill="#6fa92b"/>
+  <path d="m29 20 9 5 12 17-12 5z" fill="#96c938"/>
+  <path d="m46 57 23 17 10-6-18-20z" fill="#a0cf45"/>
+  <path d="m46 57 23 17v7L46 64z" fill="#6c9f28"/>
+  <path d="m69 74 10-6v7l-10 6z" fill="#497d23"/>
+  <path d="m15 56-5-15 8-4 12 11z" fill="#78b72c"/>
+  <path d="m10 41 8 4 6 11-9 2z" fill="#abd64f"/>
+  <path d="m20 61 13 6 9-5-15-5z" fill="#d0d8bf"/>
+  <path d="m65 29 8 4-9 5-8-4z" fill="#344c57"/>
+  <path d="m51 37 5 2-6 3-5-2zM40 43l5 2-6 3-5-2z" fill="#547b86"/>
+</svg>

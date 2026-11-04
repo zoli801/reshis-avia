@@ -1,0 +1,62 @@
+{
+  "family": "Tiny5",
+  "version": "Version 2.007",
+  "source_repository": "https://github.com/google/fonts",
+  "commit": "8dc5b4fcbbf3303402a6f3b587976c73cf4e212e",
+  "source_file": "ofl/tiny5/Tiny5[BLED,JITT,ROND,wdth,wght].ttf",
+  "license": "SIL Open Font License 1.1",
+  "font_modified": false,
+  "font_sha256": "588626f2c1b164f55927c0d8123f4bc134651aad7d257da68fc19b0824b0d8fa",
+  "font_bytes": 433432,
+  "cmap_glyph_count": 1940,
+  "coverage_verified_with": "fontTools 4.55.2",
+  "coverage": {
+    "russian_uppercase": {
+      "supported": true,
+      "missing": []
+    },
+    "russian_lowercase": {
+      "supported": true,
+      "missing": []
+    },
+    "english_letters": {
+      "supported": true,
+      "missing": []
+    },
+    "digits": {
+      "supported": true,
+      "missing": []
+    },
+    "ui_punctuation": {
+      "supported": true,
+      "missing": []
+    }
+  },
+  "variation_axes": {
+    "wght": {
+      "min": 100.0,
+      "default": 400.0,
+      "max": 900.0
+    },
+    "wdth": {
+      "min": 50.0,
+      "default": 100.0,
+      "max": 200.0
+    },
+    "ROND": {
+      "min": 0.0,
+      "default": 0.0,
+      "max": 100.0
+    },
+    "BLED": {
+      "min": 0.0,
+      "default": 0.0,
+      "max": 100.0
+    },
+    "JITT": {
+      "min": 0.0,
+      "default": 0.0,
+      "max": 100.0
+    }
+  }
+}

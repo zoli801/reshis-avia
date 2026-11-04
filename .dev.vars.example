@@ -1,0 +1,17 @@
+# Справочник переменных. Реальные значения задаются только локально или в Sites.
+# Для локального запуска выполните npm run setup:local: он создаст случайный PASSWORD_PEPPER.
+PASSWORD_PEPPER=
+
+# Telegram не нужен для сайта и автоматических тестов.
+# Для своего бота заполните эти поля в игнорируемом .dev.vars.
+BOT_TOKEN=
+BOT_ID=
+BOT_USERNAME=
+TELEGRAM_WEBHOOK_SECRET=
+BOT_INTERNAL_SECRET=
+
+# Адрес собственного опубликованного сайта и подтверждённый владелец.
+PUBLIC_URL=
+WEBAPP_URL=
+SITE_OWNER_EMAIL=
+ADMIN_TELEGRAM_ID=

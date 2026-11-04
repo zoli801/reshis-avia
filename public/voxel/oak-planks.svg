@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" width="64" height="64" shape-rendering="crispEdges" role="img" aria-labelledby="oak-title">
+  <title id="oak-title">Оригинальная повторяемая текстура дубовых досок</title>
+  <path fill="#b5864c" d="M0 0h64v64H0z"/>
+  <path fill="#c49558" d="M0 1h64v5H0zM0 33h64v4H0z"/>
+  <path fill="#bc8b4c" d="M0 17h64v6H0zM0 49h64v5H0z"/>
+  <path fill="#8a5c30" d="M0 15h64v2H0zM0 31h64v2H0zM0 47h64v2H0zM0 63h64v1H0zM0 0h64v1H0z"/>
+  <path fill="#d2a569" d="M0 17h64v1H0zM0 33h64v1H0zM0 49h64v1H0zM0 1h64v1H0z"/>
+  <path fill="#976b38" d="M19 2h2v13h-2zM47 18h2v13h-2zM8 34h2v13H8zM34 50h2v13h-2z"/>
+  <path fill="#d2a569" d="M3 5h12v1H3zM25 8h18v1H25zM49 4h11v1H49zM5 22h17v1H5zM27 26h14v1H27zM51 21h10v1H51zM14 39h15v1H14zM34 42h19v1H34zM53 36h8v1H53zM1 56h17v1H1zM22 52h8v1H22zM41 57h19v1H41z"/>
+  <path fill="#a47740" d="M4 10h11v2H4zM29 12h22v1H29zM53 9h11v1H53zM2 27h11v1H2zM18 19h20v1H18zM52 28h9v2H52zM16 44h12v1H16zM31 36h16v1H31zM53 44h11v1H53zM5 59h12v1H5zM20 60h9v1H20zM43 52h17v1H43z"/>
+  <path fill="#79512b" d="M21 7h2v2h-2zM49 23h2v2h-2zM10 39h2v2h-2zM36 55h2v2h-2z"/>
+</svg>

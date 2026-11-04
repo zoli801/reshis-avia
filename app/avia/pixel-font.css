@@ -1,0 +1,9 @@
+/* Tiny5 is self-hosted, unchanged, under SIL OFL 1.1. See /fonts/Tiny5-OFL.txt. */
+@font-face{font-family:'Tiny5';src:url('/fonts/Tiny5-Variable.ttf') format('truetype');font-style:normal;font-weight:100 900;font-display:swap}
+:root,html[data-theme='light'],html[data-theme='dark']{--voxel-heading:'Tiny5',ui-monospace,monospace}
+main h1,.boot h1,.brand,.voxel-intro h2,.panel-title h2,.analytics-chart-header h2,.analytics-chart-header h3,.modal-head h2,html .account-dialog h2{font-family:var(--voxel-heading);font-variation-settings:'ROND' 0,'BLED' 0,'JITT' 0,'wdth' 100}
+.brand{font-size:27px;font-weight:600;letter-spacing:.2px;white-space:normal;gap:8px;margin-inline:4px;line-height:1.08}
+.brand>span:last-child{min-width:0;flex:1;white-space:normal}
+.brand .brand-light{display:block;margin-left:0}
+.brand small{font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif;white-space:normal;line-height:1.4;overflow-wrap:normal}
+.voxel-license-link{font-size:11px;text-decoration:underline;text-underline-offset:3px}
